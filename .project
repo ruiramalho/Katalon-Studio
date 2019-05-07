@@ -17,9 +17,34 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>kat-1096741716716580086.groovy</name>
+			<type>1</type>
+			<location>C:/Users/rramalho/AppData/Local/Temp/Katalon/Web Services/kat-1096741716716580086.groovy</location>
+		</link>
+		<link>
+			<name>kat-2809177440726210023.groovy</name>
+			<type>1</type>
+			<location>C:/Users/rramalho/AppData/Local/Temp/Katalon/Web Services/kat-2809177440726210023.groovy</location>
+		</link>
+		<link>
+			<name>kat-4590226888370247584.groovy</name>
+			<type>1</type>
+			<location>C:/Users/rramalho/AppData/Local/Temp/Katalon/Web Services/kat-4590226888370247584.groovy</location>
+		</link>
+		<link>
+			<name>kat-5830465032020778989.groovy</name>
+			<type>1</type>
+			<location>C:/Users/rramalho/AppData/Local/Temp/Katalon/Web Services/kat-5830465032020778989.groovy</location>
+		</link>
+		<link>
 			<name>kat-6971134009548324044.groovy</name>
 			<type>1</type>
-			<location>/var/folders/42/25_dz67d0s90tq1kph29hdy00000gp/T/Katalon/Web Services/kat-6971134009548324044.groovy</location>
+			<location>C:/var/folders/42/25_dz67d0s90tq1kph29hdy00000gp/T/Katalon/Web Services/kat-6971134009548324044.groovy</location>
+		</link>
+		<link>
+			<name>kat-7354677705727914009.groovy</name>
+			<type>1</type>
+			<location>C:/Users/rramalho/AppData/Local/Temp/Katalon/Web Services/kat-7354677705727914009.groovy</location>
 		</link>
 	</linkedResources>
 	<filteredResources>
@@ -430,6 +455,24 @@
 		</filter>
 		<filter>
 			<id>1552875472041</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1555323079612</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1555323079634</id>
 			<name></name>
 			<type>6</type>
 			<matcher>

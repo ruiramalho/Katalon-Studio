@@ -19,7 +19,7 @@ class JSelect {
 	private TestObject oInput;
 	private String label;
 	private TestObject oContainer;
-	
+
 	private WebElement elInput;
 	private WebElement elContainer;
 	private WebDriver driver;

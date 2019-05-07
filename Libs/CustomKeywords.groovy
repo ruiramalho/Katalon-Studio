@@ -39,3 +39,27 @@ def static "com.jira.components.JSelect.selectByText"(
          , 	el
          , 	optionText)
 }
+
+def static "myPackage.myKeyword.refreshBrowser"() {
+    (new myPackage.myKeyword()).refreshBrowser()
+}
+
+def static "myPackage.myKeyword.myKeywordPrint"(
+    	String msg	) {
+    (new myPackage.myKeyword()).myKeywordPrint(
+        	msg)
+}
+
+def static "myPackage.myKeyword.clickElement"(
+    	TestObject to	) {
+    (new myPackage.myKeyword()).clickElement(
+        	to)
+}
+
+def static "myPackage.myKeyword.getHtmlTableRows"(
+    	TestObject table	
+     , 	String outerTagName	) {
+    (new myPackage.myKeyword()).getHtmlTableRows(
+        	table
+         , 	outerTagName)
+}
